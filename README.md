@@ -8,6 +8,7 @@ This is app using the api with the biggest database of games so we aren't missin
 **Screenshots** 
 <p align="centre">
 <img src="https://user-images.githubusercontent.com/71749133/111901388-daa88180-8a5d-11eb-9438-dddaa82af7df.jpeg" height="250" width="250">
+ <img src="https://user-images.githubusercontent.com/71749133/111901482-8356e100-8a5e-11eb-84cb-439fb9e0dc59.jpeg" height="250" width="250">
  </p>
 
 Give it a star if you like it.

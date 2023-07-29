@@ -21,5 +21,3 @@ This is app using the api with the biggest database of games so we aren't missin
   <br>
  <img src="https://user-images.githubusercontent.com/71749133/111901569-00825600-8a5f-11eb-9d61-24a812e9ebdc.jpeg" height="400" width="250">
  </p>
-
-Give it a star if you like it.
